@@ -1,0 +1,7 @@
+
+{
+    "execCmd": {
+      "Android Log": "react-native log-android",
+      "Android Log Create": "newcmd react-native log-android"  
+    }
+}
